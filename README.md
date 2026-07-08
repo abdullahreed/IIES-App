@@ -1,5 +1,5 @@
 # IIES-App
-The IIES is a ln Islamic tarbiyah support app for Islamic eating science students. The repository for all files needed to build the IIES App.
+The IIES is an Islamic tarbiyah support app for Islamic eating science students. The repository for all files needed to build the IIES App.
 
 The first batch of files is what was downloaded from a free online website design at the Replit website done in the first week of July 2026 in the Gregorian calendar.
 
